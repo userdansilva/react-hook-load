@@ -8,7 +8,7 @@
 
 ### Installation
 
-    npm install react-hook-form
+    npm install react-hook-load
 
 ### Usage
 
