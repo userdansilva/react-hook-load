@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "It's a react hook that will help you to control your load states",
   "license": "MIT",
   "main": "dist/index.js",
